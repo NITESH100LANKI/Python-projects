@@ -54,15 +54,19 @@ Install Pillow if needed:
 pip install pillow
 ```
 
-## 📸 Screenshots (Optional)
-1. Wallpaper
-<img width="321" height="550" alt="Screenshot 2025-09-03 201435" src="https://github.com/user-attachments/assets/1697af97-01e4-475b-a83c-754e4f9a0d84" />
-2. NewsGui
-<img width="490" height="923" alt="Screenshot 2025-09-03 201335" src="https://github.com/user-attachments/assets/cdcc8b5b-f5de-4b2f-99cf-4a478526cd83" />
-3. Flipkart-inspired front page design
-<img width="452" height="675" alt="Screenshot 2025-09-03 201250" src="https://github.com/user-attachments/assets/f7c6cc24-a357-417e-aecc-6ebbadc0da1b" />
-4. calculatar
-<img width="378" height="520" alt="image" src="https://github.com/user-attachments/assets/64bd5bf7-2fa4-4dd6-a640-be726f758d45" />
+## 📸 Screenshots  
+
+### 1. Wallpaper  
+<img width="321" height="550" alt="Wallpaper Viewer" src="https://github.com/user-attachments/assets/1697af97-01e4-475b-a83c-754e4f9a0d84" />  
+
+### 2. News GUI  
+<img width="490" height="923" alt="News GUI" src="https://github.com/user-attachments/assets/cdcc8b5b-f5de-4b2f-99cf-4a478526cd83" />  
+
+### 3. Flipkart-Inspired Front Page  
+<img width="452" height="675" alt="Flipkart Front Page" src="https://github.com/user-attachments/assets/f7c6cc24-a357-417e-aecc-6ebbadc0da1b" />  
+
+### 4. Calculator  
+<img width="378" height="520" alt="Calculator" src="https://github.com/user-attachments/assets/64bd5bf7-2fa4-4dd6-a640-be726f758d45" />  
 
 
 
